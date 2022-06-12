@@ -1,0 +1,202 @@
+ @@ -0,0 +1,201 @@
+ Apache-licentie
+ Versie 2.0, januari 2004
+                        http://www.apache.org/licenses/
+
+ ALGEMENE VOORWAARDEN VOOR GEBRUIK, REPRODUCTIE EN DISTRIBUTIE
+
+ 1. Definities.
+
+ "Licentie" betekent de algemene voorwaarden voor gebruik, reproductie,
+ en distributie zoals gedefinieerd in secties 1 tot en met 9 van dit document.
+
+ "Licentiegever" betekent de eigenaar van het auteursrecht of de entiteit die is geautoriseerd door
+ de eigenaar van het auteursrecht die de licentie verleent.
+
+ "Juridische entiteit" betekent de vereniging van de handelende entiteit en alle
+ andere entiteiten die zeggenschap hebben over, onder zeggenschap staan van of onder gemeenschappelijkheid staan
+ zeggenschap met die entiteit. Voor de toepassing van deze definitie wordt verstaan onder:
+ "controle": i) het vermogen, direct of indirect, om de
+ leiding of beheer van een dergelijke entiteit, hetzij contractueel, hetzij
+ anderszins, of (ii) eigendom van vijftig procent (50%) of meer van de
+ uitstaande aandelen, of (iii) economisch eigendom van een dergelijke entiteit.
+
+ "U" (of "Uw") betekent een natuurlijke persoon of rechtspersoon
+ het uitoefenen van toestemmingen verleend door deze Licentie.
+
+ "bronformulier": de voorkeursvorm voor het aanbrengen van wijzigingen;
+ inclusief maar niet beperkt tot software broncode, documentatie
+ bron- en configuratiebestanden.
+
+ Onder "object"-formulier wordt verstaan elke vorm die voortvloeit uit mechanische
+ transformatie of vertaling van een Bronvorm, met inbegrip van maar
+ niet beperkt tot gecompileerde objectcode, gegenereerde documentatie,
+ en conversies naar andere mediatypen.
+
+ Onder "werk" wordt verstaan het werk van auteurschap, hetzij in bron of in bron.
+ Objectformulier, beschikbaar gesteld onder de Licentie, zoals aangegeven door een
+ auteursrechtvermelding die is opgenomen in of gehecht aan het werk
+ (een voorbeeld is te zien in de bijlage hieronder).
+
+ "Afgeleide werken" betekent elk werk, hetzij in bron of object
+ vorm, die is gebaseerd op (of afgeleid van) het Werk en waarvoor de
+ redactionele revisies, annotaties, uitwerkingen of andere wijzigingen
+ vertegenwoordigen, als geheel, een origineel werk van auteurschap. Voor de doeleinden
+ van deze Licentie, afgeleide werken omvatten geen werken die blijven bestaan
+ scheidbaar van, of slechts linken (of binden door naam) naar de interfaces van,
+ het Werk en afgeleide werken daarvan.
+
+ Onder "bijdrage" wordt verstaan elk werk van auteurschap, met inbegrip van
+ de oorspronkelijke versie van het Werk en eventuele wijzigingen of toevoegingen
+ op dat Werk of Afgeleide Werken daarvan, dat is opzettelijk
+ ingediend bij Licentiegever voor opname in het Werk door de eigenaar van het auteursrecht
+ of door een persoon of rechtspersoon die gemachtigd is om namens
+ de eigenaar van het auteursrecht. Voor de toepassing van deze definitie wordt onder "ingediend" verstaan:
+ betekent elke vorm van elektronische, mondelinge of schriftelijke communicatie verzonden
+ aan de Licentiegever of zijn vertegenwoordigers, inclusief maar niet beperkt tot
+ communicatie op elektronische mailinglijsten, broncodecontrolesystemen,
+ en probleemvolgsystemen die worden beheerd door of namens de
+ Licentiegever met het oog op het bespreken en verbeteren van het Werk, maar
+ met uitzondering van communicatie die opvallend is gemarkeerd of anderszins
+ schriftelijk door de eigenaar van het auteursrecht aangeduid als 'Geen bijdrage'.
+
+ "Contribuant" betekent Licentiegever en elke natuurlijke of rechtspersoon
+ namens wie een Bijdrage is ontvangen door Licentiegever en
+ vervolgens opgenomen in het Werk.
+
+ 2. Verlening van auteursrechtlicentie. Onderworpen aan de algemene voorwaarden van
+ deze Licentie, verleent elke Contribuant u hierbij een eeuwigdurende,
+ wereldwijd, niet-exclusief, gratis, royaltyvrij, onherroepelijk
+ copyright licentie om te reproduceren, afgeleide werken voor te bereiden van,
+ de
+ Werk en dergelijke afgeleide werken in bron- of objectvorm.
+
+ 3. Verlening van octrooilicentie. Onderworpen aan de algemene voorwaarden van
+ deze Licentie, verleent elke Contribuant u hierbij een eeuwigdurende,
+ wereldwijd, niet-exclusief, gratis, royaltyvrij, onherroepelijk
+ (behalve zoals vermeld in deze sectie) octrooilicentie te maken, te hebben gemaakt,
+ het Werk te gebruiken, aan te bieden om het te verkopen, te verkopen, te importeren en anderszins over te dragen,
+ wanneer een dergelijke licentie alleen van toepassing is op octrooiclaims die in licentie kunnen worden verleend
+ door een dergelijke Contribuant die noodzakelijkerwijs worden geschonden door hun
+ Bijdrage(s) alleen of in combinatie van hun Bijdrage(s)
+ met het Werk waarvoor een dergelijke Bijdrage(s) is(en) ingediend. Als u
+ octrooigeschillen in te stellen tegen een entiteit (met inbegrip van een
+ cross-claim of tegenvordering in een rechtszaak) waarin wordt beweerd dat het Werk
+ of een Bijdrage die in het Werk is opgenomen, vormt een directe
+ of medeplichtige octrooi-inbreuk, dan eventuele octrooilicenties
+ aan u verleend onder deze licentie voor dat werk zal eindigen
+ vanaf de datum waarop een dergelijk geschil wordt ingediend.
+
+ 4. Herverdeling. U mag kopieën van de
+ Werken of afgeleide werken daarvan, in welk medium dan ook, met of zonder
+ wijzigingen, en in bron- of objectvorm, op voorwaarde dat u
+ voldoen aan de volgende voorwaarden:
+
+ (a) U moet andere ontvangers van het Werk of
+ Derivative Works een kopie van deze Licentie; en
+
+ (b) U moet ervoor zorgen dat gewijzigde bestanden opvallende kennisgevingen bevatten
+ waarin staat dat u de bestanden hebt gewijzigd; en
+
+ (c) U moet, in de bronvorm, afgeleide werken bewaren
+ dat u alle auteursrechten, patenten, handelsmerken en
+ toeschrijvingsberichten van de Bronvorm van het Werk,
+ met uitzondering van kennisgevingen die geen betrekking hebben op enig deel van
+ de afgeleide werken; en
+
+ (d) Als het Werk een "KENNISGEVING" tekstbestand bevat als onderdeel van zijn
+ distributie, dan moeten alle afgeleide werken die u distribueert
+ voeg een leesbare kopie van de toeschrijvingskennisgevingen toe
+ in een dergelijk KENNISGEVINGSBESTAND, met uitzondering van kennisgevingen die dat niet doen
+ betrekking hebben op enig deel van de afgeleide werken, in ten minste één
+ aantal van de volgende plaatsen: in een KENNISGEVING tekstbestand dat wordt verspreid
+ als onderdeel van de Afgeleide Werken; in het formulier Bron of
+ documentatie, indien verstrekt samen met de afgeleide werken; of
+ binnen een door de afgeleide werken gegenereerde weergave, indien en
+ overal waar dergelijke kennisgevingen van derden gewoonlijk worden weergegeven. De inhoud
+ van het NOTICE-bestand uitsluitend voor informatieve doeleinden zijn en
+ wijzig de Licentie niet. U kunt uw eigen naamsvermelding toevoegen
+ kennisgevingen binnen Afgeleide Werken die U verspreidt, naast
+ of als addendum bij de KENNISGEVINGstekst van het Werk, verstrekt
+ dat dergelijke aanvullende toeschrijvingskennisgevingen niet kunnen worden geïnterpreteerd
+ als het wijzigen van de Licentie.
+
+ U kunt uw eigen copyrightverklaring toevoegen aan uw wijzigingen en
+ kan aanvullende of andere licentievoorwaarden en -bepalingen verstrekken
+ voor gebruik, reproductie of distributie van uw wijzigingen, of
+ voor dergelijke afgeleide werken als geheel, mits uw gebruik,
+ reproductie en distributie van het Werk voldoet anderszins aan
+ de voorwaarden vermeld in deze Licentie.
+
+ 5. Indiening van bijdragen. Tenzij u uitdrukkelijk anders aangeeft,
+ elke Bijdrage die opzettelijk is ingediend voor opname in het Werk
+ door u aan de Licentiegever zal onder de voorwaarden van
+ deze Licentie, zonder aanvullende voorwaarden of bepalingen.
+ Niettegenstaande het bovenstaande zal niets in dit alles de plaats in de plaats komen van of wijzigen
+ de voorwaarden van een afzonderlijke licentieovereenkomst die u mogelijk hebt uitgevoerd
+ met Licentiegever met betrekking tot dergelijke Bijdragen.
+
+ 6. Handelsmerken. Deze licentie geeft geen toestemming om de handel te gebruiken
+ namen, handelsmerken, dienstmerken of productnamen van de Licentiegever,
+ behalve zoals vereist voor redelijk en gebruikelijk gebruik bij het beschrijven van de
+ oorsprong van het Werk en reproductie van de inhoud van het NOTICE-bestand.
+
+ 7. Afwijzing van garantie. Tenzij vereist door de toepasselijke wetgeving of
+ Schriftelijk overeengekomen, levert Licentiegever het Werk (en elk
+ Contribuant levert zijn bijdragen) op een "AS IS" BASIS,
+ ZONDER GARANTIES OF VOORWAARDEN VAN WELKE AARD DAN OOK, hetzij uitdrukkelijk of
+ impliciet, inclusief, zonder beperking, garanties of voorwaarden
+ van TITEL, NIET-INBREUK, VERKOOPBAARHEID of GESCHIKTHEID VOOR A
+ BIJZONDER DOEL. U bent als enige verantwoordelijk voor het bepalen van de
+ geschiktheid van het gebruik of de herdistributie van het Werk en neem aan dat
+ risico's verbonden aan uw uitoefening van toestemmingen onder deze licentie.
+
+ 8. Beperking van aansprakelijkheid. In geen geval en onder geen enkele juridische theorie,
+ hetzij uit onrechtmatige daad (met inbegrip van nalatigheid), contract of anderszins,
+ tenzij vereist door de toepasselijke wetgeving (zoals opzettelijk en grof
+ nalatige handelingen) of schriftelijk overeengekomen, zal elke Contribuant
+ aansprakelijk jegens u voor schade, inclusief directe, indirecte, speciale,
+ incidentele of gevolgschade van welke aard dan ook ontstaan als een
+ resultaat van deze Licentie of uit het gebruik of de onmogelijkheid om de
+ Werkzaamheden (inclusief maar niet beperkt tot schade door verlies van goodwill,
+ werkonderbreking, computerstoring of -storing, of alles en iedereen
+ andere commerciële schade of verliezen), zelfs als een dergelijke Contribuant
+ op de hoogte is gesteld van de mogelijkheid van dergelijke schade.
+
+ 9. Het accepteren van garantie of aanvullende aansprakelijkheid. Tijdens de herverdeling
+ het Werk of Afgeleide Werken daarvan, Kunt U ervoor kiezen om aan te bieden,
+ en een vergoeding in rekening brengen voor, acceptatie van ondersteuning, garantie, schadeloosstelling,
+ of andere aansprakelijkheidsverplichtingen en/of -rechten die hiermee in overeenstemming zijn
+ Licentie. Bij het aanvaarden van dergelijke verplichtingen mag u echter alleen handelen
+ namens verantwoordelijkheid en op uw eigen verantwoordelijkheid, niet namens
+ van elke andere Bijdrager, en alleen als u ermee instemt om schadeloos te stellen,
+ elke Contribuant te verdedigen en te vrijwaren voor elke aansprakelijkheid
+ opgelopen door, of claims ingediend tegen, een dergelijke Contribuant door reden
+ van het accepteren van een dergelijke garantie of aanvullende aansprakelijkheid.
+
+ EINDE VAN DE ALGEMENE VOORWAARDEN
+
+ BIJLAGE: Hoe u de Apache-licentie op uw werk kunt toepassen.
+
+ Als u de Apache-licentie op uw werk wilt toepassen, voegt u het volgende toe:
+ boilerplate notice, met de velden tussen haakjes "[]"
+ vervangen door uw eigen identificerende informatie. (Niet opnemen
+ de beugels!) De tekst moet worden ingesloten in de desbetreffende
+ commentaarsyntaxis voor de bestandsindeling. We raden ook aan dat een
+ bestands- of klassenaam en beschrijving van het doel worden opgenomen op de
+ dezelfde "afgedrukte pagina" als de auteursrechtvermelding voor eenvoudiger
+ identificatie in archieven van derden.
+
+ Copyright [2007-2021] [Bram Darras]
+
+ Gelicentieerd onder de Apache-licentie, versie 2.0 (de "Licentie");
+ u mag dit bestand alleen gebruiken in overeenstemming met de Licentie.
+ U kunt een kopie van de Licentie verkrijgen op
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+ Tenzij vereist door de toepasselijke wetgeving of schriftelijk overeengekomen, software
+ gedistribueerd onder de Licentie wordt gedistribueerd op een "AS IS" BASIS,
+ ZONDER GARANTIES OF VOORWAARDEN VAN WELKE AARD DAN OOK, expliciet of impliciet.
+ Zie de licentie voor de specifieke taal die van toepassing is op machtigingen en
+ beperkingen onder de Licentie.
